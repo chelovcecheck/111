@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>
+			Аниме
+		</title>
+	
+	</head>
+	<body>
+		<article class= "zagolovok">
+		<h1>На этом сайте мы поговорим об аниме</h1>
+		<h2>Я расскажу, какое аниме нравится мне и какое я советую посмотреть</h2>
+		</article>
+        <p>Всё аниме на сайте <a href="https://jut.su/">jut.su</a></p>
+	</body>
+	</html>
